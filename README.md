@@ -7,7 +7,7 @@
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
 ## Deploy Link Template 
-```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
+```https://heroku.com/deploy?template=```
 ## Support Group 
 https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
@@ -32,7 +32,7 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
 ## UPDATES
 
-```2022.08.22 - Published```
+```https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-2022.08.22 - Published```
 
 ```2022.08.25 - Tiktok , YT Shorts and Your Tag Error Fixed```
 
