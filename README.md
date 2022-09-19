@@ -24,7 +24,7 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-4. Click [FORK](https://github.com/darkalphaxteam/Cyber-X-Beta-Release/fork)
+4. Click [FORK](https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-/fork)
 5. Upload Session.json You Forked Repo
 6. Deploy And Enjoy
 
