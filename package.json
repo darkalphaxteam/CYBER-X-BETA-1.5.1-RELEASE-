@@ -1,6 +1,6 @@
 {
   "name": "Cyber-X MD",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
   "type": "commonjs",
