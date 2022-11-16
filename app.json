@@ -8,7 +8,7 @@
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "923099809063"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
@@ -18,22 +18,22 @@
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "923099809063"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "ᴋɪɴɢ.AMaN Siyal"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "AMaN siyal"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
 			"required": true,
-			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
+			"value": "ᴄʏʙᴇʀ-x AMaN siyal"
 			},
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
@@ -63,7 +63,7 @@
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "ʙʏ ᴄʏʙᴇʀ-x AMaN siyal"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
@@ -73,7 +73,7 @@
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "923099809063"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
@@ -88,7 +88,7 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "AMaN siyal"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
