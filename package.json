@@ -1,5 +1,5 @@
 {
-  "name": "Cyber-X MD",
+  "name": "leongamer",
   "version": "1.5.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "termux",
-    "whatsapp",
+    "whatsapp","8982860407"
     "2022",
     "base",
     "baileys-md",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "darkalphaxteam",
+  "author": "leon",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
